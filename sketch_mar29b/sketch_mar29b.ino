@@ -23,7 +23,7 @@ unsigned long connectedInterval = 1000;
 unsigned long disconnectedInterval = 500;
 unsigned long previousMillis = 0;
 
-const char* deepseek_api_key = "sk-75c02061fb4d48fe9c43a8bf2bdece25";
+const char* deepseek_api_key = "deepseek密钥";
 
 void setup() {
   Serial.begin(115200);
